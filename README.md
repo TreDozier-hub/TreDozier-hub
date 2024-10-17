@@ -3,10 +3,10 @@
 <br>Je suis Arnaud Tré DOZIER 
 Graphiste je suis en formation chez Simplon en développement Front-End
 ### J'utilise comme Logiciels
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/1200px-Adobe_Illustrator_CC_icon.svg.png" style="width:50px;"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/1200px-Adobe_Illustrator_CC_icon.svg.png" style="width:50px; float:left;"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/1200px-Adobe_Illustrator_CC_icon.svg.png" style="width:50px;"/>
 Oh oh oh
-
+ changement top top
 
 
 
