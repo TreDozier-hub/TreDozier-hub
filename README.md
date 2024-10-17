@@ -1,4 +1,7 @@
-## Hi there 👋
+# Hello à Tous 👋
+## Je suis Arnaud Dozier
+## Je suis Graphiste en en formation chez Simplon en développement Front-End
+
 
 <!--
 **TreDozier-hub/TreDozier-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
