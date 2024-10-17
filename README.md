@@ -1,6 +1,6 @@
-# Hello à Tous 👋
-## Je suis Arnaud Dozier
-## Je suis Graphiste en en formation chez Simplon en développement Front-End
+# Hello à Tous 👋, je suis Arnaud TRé DOZIER
+## 
+Je suis Graphiste et je suis en formation chez Simplon en développement Front-End
 
 
 <!--
