@@ -1,4 +1,4 @@
-![alt text]((https://github.com/TreDozier-hub/TreDozier-hub/blob/main/README.md?plain=1))
+<img src="https://raw.githubusercontent.com/TreDozier-hub/TreDozier-hub/refs/heads/main/Profil_Guit-01.png">
 <br>
 # Hello à Tous 👋
 
