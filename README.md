@@ -1,5 +1,8 @@
-
+![alt text](main/Profil_Guit-01.png)
+<br>
 # Hello à Tous 👋
+
+##
 <br>Je suis Arnaud Tré DOZIER 
 Graphiste je suis en formation chez Simplon en développement Front-End
 ### J'utilise comme Logiciels
