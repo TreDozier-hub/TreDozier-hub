@@ -6,7 +6,7 @@ Graphiste je suis en formation chez Simplon en développement Front-End
 ##
 <br>
 <br>
-### J'utilise comme Logiciels
+### Mon environnement
 <div dir="auto">
         <div dir="auto" style="float: left;margin-right: 20px;">
             <img src="https://camo.githubusercontent.com/7fdcd7e81a2523b389c34909bf1b9cabe9546b7b424221e951d48905d4c4a7ce/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f662f66622f41646f62655f496c6c7573747261746f725f43435f69636f6e2e7376672f3132303070782d41646f62655f496c6c7573747261746f725f43435f69636f6e2e7376672e706e67" style="width: 30px; max-width: 100%;float: left;" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/1200px-Adobe_Illustrator_CC_icon.svg.png"></div>
